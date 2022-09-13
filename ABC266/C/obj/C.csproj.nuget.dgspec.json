@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern\\ABC266\\C\\C.csproj": {}
+    "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern_atcoder\\ABC266\\C\\C.csproj": {}
   },
   "projects": {
-    "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern\\ABC266\\C\\C.csproj": {
+    "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern_atcoder\\ABC266\\C\\C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern\\ABC266\\C\\C.csproj",
+        "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern_atcoder\\ABC266\\C\\C.csproj",
         "projectName": "C",
-        "projectPath": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern\\ABC266\\C\\C.csproj",
+        "projectPath": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern_atcoder\\ABC266\\C\\C.csproj",
         "packagesPath": "C:\\Users\\1109h\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern\\ABC266\\C\\obj\\",
+        "outputPath": "\\\\wsl$\\Ubuntu\\home\\haya1818\\intern_atcoder\\ABC266\\C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1109h\\AppData\\Roaming\\NuGet\\NuGet.Config"
