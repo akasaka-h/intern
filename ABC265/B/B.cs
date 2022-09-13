@@ -14,8 +14,6 @@ namespace ABC265
             line = Console.ReadLine().Trim().Split(' ');
             var a = Array.ConvertAll(line,x => long.Parse(x));
 
-            //var xy = new List<int>().Select(_ => Console.ReadLine().Split());
-
             for(int i =0 ;i <m;i++)
             {
                 string[] xy = Console.ReadLine().Trim().Split(' ');
